@@ -18,7 +18,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 # ==========================================
 GEMINI_CMD = "gemini-cli" # Change to "gemini" if needed
 
-CITIES = ["New York", "Dallas", "Houston", "Miami", "Atlanta"]
+CITIES = [ "Casper", "Cheyenne", "Gillette", "Rock Springs", "Laramie"]
 NICHES = {
     "Roofing Contractor": 12000,
     "Solar Installation": 15000,
